@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o SEU_NICK_DO_GITHUB! 👋
 
-<!--
-**VictorRossi-Developer/VictorRossi-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 Sobre Mim
+- 🚀 Atualmente trabalhando em **SEU_PROJETO_ATUAL**
+- 🌱 Aprendendo mais sobre **TECNOLOGIA_QUE_ESTA_ESTUDANDO**
+- 🤝 Buscando colaboração em **AREA_DE_INTERESSE**
+- 💬 Pergunte-me sobre **SUAS_ESPECIALIDADES**
+- ✉️ Como me encontrar: **SEU_EMAIL_OU_LINK**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://shields.io" alt="JS" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Node" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
