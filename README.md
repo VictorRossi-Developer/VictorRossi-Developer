@@ -30,8 +30,7 @@
 
   <a href="https://www.credly.com/users/SEU_PERFIL_CREDLY" target="_blank">
     <img src="https://img.shields.io/badge/Introdução à Cibersegurança
--Concluida-0a66c2?style=for-the-badge&logo=cisco&logoColor=white" />
-  </a>
+-Concluida-0a66c2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
 </p>
 
