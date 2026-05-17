@@ -18,36 +18,28 @@
 </p>
 
 
-
-
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1ba0d7,100:005073&height=90&section=header&text=Desenvolvimento%20Cisco%&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1ba0d7,100:005073&height=90&section=header&text=Desenvolvimento%20Cisco&fontSize=28&fontColor=ffffff" />
 </p>
 
 <p align="center">
-
   <a href="https://www.credly.com/users/SEU_PERFIL_CREDLY" target="_blank">
-    <img src="https://img.shields.io/badge/Introdução à Cibersegurança
--Concluida-0a66c2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://www.credly.com/users/SEU_PERFIL_CREDLY" target="_blank">
-    <img src="https://img.shields.io/badge/Defesa de Rede 
--Concluida-0a66c2?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Introducao_a_Ciberseguranca-Concluida-0a66c2?style=for-the-badge&logo=cisco&logoColor=white" />
   </a>
-
 </p>
 
 <p align="center">
-
   <a href="https://www.credly.com/users/SEU_PERFIL_CREDLY" target="_blank">
-    <img src="https://img.shields.io/badge/Cisco Certified Support Technicians-Em progresso-0a66c2?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Defesa_de_Rede-Concluida-0a66c2?style=for-the-badge&logo=cisco&logoColor=white" />
   </a>
+</p>
 
+<p align="center">
+  <a href="https://www.credly.com/users/SEU_PERFIL_CREDLY" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco_Certified_Support_Technicians-Em_Progresso-0a66c2?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
 </p>
 
 ---
