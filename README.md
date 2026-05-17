@@ -1,45 +1,39 @@
-# 👨‍💻 Olá, eu sou SEU_NOME
+# Olá, eu sou o [Seu Nome]! 👋
 
-🎓 Estudante da ETEC Zona Leste — 2º ano de DS-AMS  
-🔐 Em formação na área de Cibersegurança pela Cisco Systems  
-💻 Focado em desenvolvimento, segurança e tecnologia  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+### 💫 Sobre Mim
+- 🚀 Atualmente trabalhando em **[Seu Projeto Atual]**
+- 🌱 Aprendendo mais sobre **[Tecnologia que está estudando]**
+- 🤝 Buscando colaboração em **[Área de Interesse]**
+- 💬 Pergunte-me sobre **[Suas Especialidades]**
+- ✉️ Como me encontrar: **[Seu E-mail/Link]**
 
 ---
 
-## 🚀 Tecnologias
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="HTML" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="JS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="Python" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-</div>
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <!-- Substitua os nomes pelas tecnologias que você usa -->
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="NodeJS" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Git" />
+</p>
 
 ---
 
-## 🌐 Contato
+### 📊 Estatísticas do GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN)
+<p align="center">
+  <!-- Altere 'seu-usuario' para o seu nick real do GitHub -->
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
 
-[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
+---
+
+### 🌐 Conecte-se Comigo
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
