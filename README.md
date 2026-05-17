@@ -1,6 +1,6 @@
 # Olá, eu sou o SEU_NICK_DO_GITHUB! 👋
 
-### 💫 Sobre Mim
+### 💫 Sobre Me
 - 🚀 Atualmente trabalhando em **SEU_PROJETO_ATUAL**
 - 🌱 Aprendendo mais sobre **TECNOLOGIA_QUE_ESTA_ESTUDANDO**
 - 🤝 Buscando colaboração em **AREA_DE_INTERESSE**
@@ -21,11 +21,10 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Dias Consecutivos (Streak)
 
 <p align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://herokuapp.com" alt="Streak do GitHub" />
 </p>
 
 ---
