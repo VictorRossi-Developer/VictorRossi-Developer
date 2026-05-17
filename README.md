@@ -11,25 +11,29 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** JavaScript, Python
-* **Frontend:** React
-* **Backend:** Node.js
-* **Ferramentas:** Git
+<p align="left">
+  <img src="https://shields.io" alt="JS" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Node" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Git" />
+</p>
 
 ---
 
-### 📊 Minhas Atividades no GitHub
+### 📊 Estatísticas do GitHub
 
-Aqui você pode ver o gráfico oficial de contribuições diretamente do meu perfil:
-
-```skyline
-# Este bloco de código nativo puxa seu histórico sem quebrar a renderização
-```
-
-Para ver meus projetos completos e repositórios, acesse a aba **Repositories** no topo do meu perfil.
+<p align="center">
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
 ### 🌐 Conecte-se Comigo
 
-* **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
